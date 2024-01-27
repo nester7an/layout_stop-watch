@@ -1,0 +1,1 @@
+{"mappings":"ACAA;;;;;AAKA;;;;;;;;AAQA;;;;;;;;;AAQE;;;;AAIA;;;;;;;;;AASA;;;;;;;;;;AAUA;;;;;;;;;;;AAYF","sources":["src/styles/main.scss","src/styles/blockes/clock.scss"],"sourcesContent":["@import './blockes/clock';\n",null],"names":[],"version":3,"file":"index.971c2ea4.css.map","sourceRoot":"/__parcel_source_root/"}
